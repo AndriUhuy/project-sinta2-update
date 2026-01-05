@@ -41,7 +41,6 @@ Fitur kalibrasi *offset* sensor (Suhu & Arus) yang dapat diatur langsung melalui
 ## 📸 Screenshots
 
 *(Upload screenshot aplikasi kamu ke folder `assets` atau `images` di repo ini, lalu ganti link di bawah ini)*
-<img width="383" height="189" alt="Screenshot 2026-01-05 210955" src="https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443" />
 
 
 | Dashboard Monitoring | Logic Analysis |
@@ -50,7 +49,7 @@ Fitur kalibrasi *offset* sensor (Suhu & Arus) yang dapat diatur langsung melalui
 
 | OTA Update Notification | Calibration Menu |
 |:---:|:---:|
-| ![OTA Update]([https://placehold.co/600x400?text=OTA+Alert](https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443) | ![Calibration](https://placehold.co/600x400?text=Calibration) |
+| ![OTA Update](https://placehold.co/600x400?text=OTA+Alert](https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443) | ![Calibration](https://placehold.co/600x400?text=Calibration) |
 
 ---
 

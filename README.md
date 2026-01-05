@@ -81,7 +81,7 @@ Untuk pengguna umum atau pengujian tanpa instalasi Python:
 ### Opsi 2: Menjalankan Source Code (Developer)
 1.  Clone repository ini:
     ```bash
-    git clone [https://github.com/username/smartamp-iot.git](https://github.com/username/smartamp-iot.git)
+    git clone [https://github.com/AndriUhuy/project-sinta2-update/tree/main)
     cd smartamp-iot
     ```
 2.  Install library yang dibutuhkan:

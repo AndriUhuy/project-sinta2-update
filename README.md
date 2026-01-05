@@ -49,7 +49,7 @@ Fitur kalibrasi *offset* sensor (Suhu & Arus) yang dapat diatur langsung melalui
 
 | OTA Update Notification | Calibration Menu |
 |:---:|:---:|
-| ![OTA Update](https://placehold.co/600x400?text=OTA+Alert](https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443) | ![Calibration](https://placehold.co/600x400?text=Calibration) |
+| ![OTA Alert](LINK_OTA_KAMU_DISINI) | ![Calibration Menu](https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443) |
 
 ---
 

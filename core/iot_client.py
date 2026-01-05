@@ -1,6 +1,6 @@
 """
 IoT Communication Layer - MQTT Protocol
-Target: SINTA 2 (Novelty: Remote Monitoring)
+Target: SINTA 2 (Novelty: Remote Monitoring, Calibration, Update Firmware, IoT Integration)
 Author: 03TELE004
 """
 import paho.mqtt.client as mqtt
@@ -87,4 +87,5 @@ class IoTClient:
         # Jika tidak ada data > 5 detik, anggap Offline
         if time.time() - self.last_received_time > 5:
             return False
+
         return True

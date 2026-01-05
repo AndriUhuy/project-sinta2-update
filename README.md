@@ -41,8 +41,6 @@ Fitur kalibrasi *offset* sensor (Suhu & Arus) yang dapat diatur langsung melalui
 ## 📸 Screenshots
 
 *(Upload screenshot aplikasi kamu ke folder `assets` atau `images` di repo ini, lalu ganti link di bawah ini)*
-<img width="1920" height="1200" alt="Screenshot 2026-01-05 210903" src="https://github.com/user-attachments/assets/9f0f880c-3eeb-4fd9-9d16-0b4a95121e1a" />
-
 
 | Dashboard Monitoring | Logic Analysis |
 |:---:|:---:|

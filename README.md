@@ -42,14 +42,13 @@ Fitur kalibrasi *offset* sensor (Suhu & Arus) yang dapat diatur langsung melalui
 
 *(Upload screenshot aplikasi kamu ke folder `assets` atau `images` di repo ini, lalu ganti link di bawah ini)*
 
-
 | Dashboard Monitoring | Logic Analysis |
 |:---:|:---:|
 | ![Dashboard Monitoring](https://github.com/user-attachments/assets/c0cae0ea-9093-4d8c-957f-82e83ebcb0cf) | ![Logic Analysis](https://github.com/user-attachments/assets/9f0f880c-3eeb-4fd9-9d16-0b4a95121e1a) |
 
 | OTA Update Notification | Calibration Menu |
 |:---:|:---:|
-| ![OTA Alert](LINK_OTA_KAMU_DISINI) | ![Calibration Menu](https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443) |
+| ![OTA Alert](https://github.com/user-attachments/assets/63058e09-a602-4750-9b3f-0e2a987a5d74) | ![Calibration Menu](https://github.com/user-attachments/assets/30369f13-3ab1-4c59-b623-1a8845f91443) |
 
 ---
 

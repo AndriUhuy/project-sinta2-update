@@ -40,17 +40,13 @@ Fitur kalibrasi *offset* sensor (Suhu & Arus) yang dapat diatur langsung melalui
 
 ## 📸 Screenshots
 
-*(Upload screenshot aplikasi kamu ke folder `assets` atau `images` di repo ini, lalu ganti link di bawah ini)*
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/802c1ec0-dd85-4db7-b215-7492c7ec43e1" />
-
-
 | Dashboard Monitoring | Logic Analysis |
 |:---:|:---:|
-| ![Dashboard](https://placehold.co/600x400?text=Dashboard+Screenshot) | ![Logic](https://placehold.co/600x400?text=Logic+Screenshot) |
+| [![Dashboard](https://placehold.co/600x400?text=Dashboard+Screenshot](https://github.com/user-attachments/assets/802c1ec0-dd85-4db7-b215-7492c7ec43e1)) | ![Logic]([https://placehold.co/600x400?text=Logic+Screenshot](https://github.com/user-attachments/assets/f56f2975-1ce4-4a34-a8f9-5bddbef5efa8)) |
 
 | OTA Update Notification | Calibration Menu |
 |:---:|:---:|
-| ![OTA Update](https://placehold.co/600x400?text=OTA+Alert) | ![Calibration](https://placehold.co/600x400?text=Calibration) |
+| ![OTA Update]([https://placehold.co/600x400?text=OTA+Alert](https://github.com/user-attachments/assets/1c03530f-2b05-44e8-a837-d3c8f6a58911)) | ![Calibration]([https://placehold.co/600x400?text=Calibration](https://github.com/user-attachments/assets/274dedad-c716-4e9e-a6d7-14cd7d7de479)) |
 
 ---
 

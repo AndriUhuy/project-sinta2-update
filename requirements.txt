@@ -14,5 +14,3 @@ packaging>=21.3
 # 4. Pengolahan Gambar (Buat Icon & Logo)
 Pillow>=9.0.0
 
-# 5. GUI (Tkinter biasanya bawaan, tapi customtkinter opsional kalau pake)
-# tkinter (bawaan python, tidak perlu ditulis)

@@ -110,4 +110,4 @@ Sistem OTA bekerja dengan alur berikut:
 Project ini dibuat untuk keperluan penelitian akademis (Skripsi/Jurnal).
 Dilisensikan di bawah **MIT License**.
 
-**Developed by Andri - 2024/2026**
+**Developed by Andriani - 2024/2026**
